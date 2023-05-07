@@ -21,7 +21,7 @@ const Navbar = () => {
 
   const currentUser = {
     id: 1,
-    userName: "John Doe",
+    userName: "Oxunboboyev Zubaydulla",
     isSeller: true,
   };
 
